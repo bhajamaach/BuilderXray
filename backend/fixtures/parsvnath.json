@@ -1,0 +1,67 @@
+{
+  "id": "saved-parsvnath",
+  "builder_query": "Parsvnath",
+  "builder_name": "Parsvnath Developers Limited",
+  "mode": "saved",
+  "generated_at": "2026-10-20T00:00:00Z",
+  "verdict": "unknown",
+  "score": 0,
+  "flags": [],
+  "projects": [
+    {
+      "name": "Parsvnath project record",
+      "rera_no": null,
+      "original_possession": null,
+      "current_possession": null,
+      "revisions": 0,
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "complaints": [],
+  "news": [],
+  "sources": [
+    {
+      "id": "rera_hr",
+      "label": "Haryana RERA",
+      "status": "not_checked",
+      "reason": "Saved project record only; a complete live Haryana RERA check was not performed.",
+      "checked_at": "2026-10-20T00:00:00Z"
+    },
+    {
+      "id": "news",
+      "label": "News search",
+      "status": "not_checked",
+      "reason": "Not included in this saved run.",
+      "checked_at": null
+    },
+    {
+      "id": "court",
+      "label": "Court records",
+      "status": "not_checked",
+      "reason": "Coming next",
+      "checked_at": null
+    },
+    {
+      "id": "registry",
+      "label": "Company registry",
+      "status": "not_checked",
+      "reason": "Coming next",
+      "checked_at": null
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "A Haryana RERA certificate page lists a Parsvnath email contact; this does not establish current project status.",
+      "source_id": "rera_hr",
+      "source_url": "https://www.haryanarera.gov.in/view_project/view_certificate/MTc5",
+      "snippet": "Certificate page includes contact email rera@parsvnath.com."
+    }
+  ],
+  "summary": "This saved source snapshot contains a Haryana RERA certificate page that lists a Parsvnath contact email. It does not establish current project status, so no risk verdict is available.",
+  "summary_claim_ids": [
+    "c1"
+  ]
+}

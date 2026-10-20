@@ -1,0 +1,67 @@
+{
+  "id": "saved-dlf",
+  "builder_query": "DLF",
+  "builder_name": "DLF Limited",
+  "mode": "saved",
+  "generated_at": "2026-10-20T00:00:00Z",
+  "verdict": "unknown",
+  "score": 0,
+  "flags": [],
+  "projects": [
+    {
+      "name": "Independent Floors at DLF City Phase IV",
+      "rera_no": null,
+      "original_possession": null,
+      "current_possession": null,
+      "revisions": 0,
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "complaints": [],
+  "news": [],
+  "sources": [
+    {
+      "id": "rera_hr",
+      "label": "Haryana RERA",
+      "status": "not_checked",
+      "reason": "Saved project record only; a complete live Haryana RERA check was not performed.",
+      "checked_at": "2026-10-20T00:00:00Z"
+    },
+    {
+      "id": "news",
+      "label": "News search",
+      "status": "not_checked",
+      "reason": "Not included in this saved run.",
+      "checked_at": null
+    },
+    {
+      "id": "court",
+      "label": "Court records",
+      "status": "not_checked",
+      "reason": "Coming next",
+      "checked_at": null
+    },
+    {
+      "id": "registry",
+      "label": "Company registry",
+      "status": "not_checked",
+      "reason": "Coming next",
+      "checked_at": null
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Haryana RERA's project record names Independent Floors at DLF City Phase IV in Gurugram.",
+      "source_id": "rera_hr",
+      "source_url": "https://www.haryanarera.gov.in/view_project/project_preview_open/1674",
+      "snippet": "Name of the project: INDEPENDENT FLOORS AT DLF CITY PHASE IV; address: DLF City Phase IV, Gurugram, Haryana."
+    }
+  ],
+  "summary": "This saved source snapshot confirms that the named project appears in the Haryana RERA record. Project status and complaint records were not included in this fixture, so no risk verdict is available.",
+  "summary_claim_ids": [
+    "c1"
+  ]
+}

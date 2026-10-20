@@ -1,0 +1,10 @@
+.env
+.env.local
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts.tmp
+backend/data/reports/*.json
+__pycache__/
+*.pyc
+.venv/

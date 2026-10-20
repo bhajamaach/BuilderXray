@@ -1,0 +1,67 @@
+{
+  "id": "saved-godrej",
+  "builder_query": "Godrej",
+  "builder_name": "Godrej Highview LLP",
+  "mode": "saved",
+  "generated_at": "2026-10-20T00:00:00Z",
+  "verdict": "unknown",
+  "score": 0,
+  "flags": [],
+  "projects": [
+    {
+      "name": "Godrej Nature Plus (Phase-I)",
+      "rera_no": "HRERA-2018/1394/265",
+      "original_possession": null,
+      "current_possession": null,
+      "revisions": 0,
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "complaints": [],
+  "news": [],
+  "sources": [
+    {
+      "id": "rera_hr",
+      "label": "Haryana RERA",
+      "status": "not_checked",
+      "reason": "Saved project record only; a complete live Haryana RERA check was not performed.",
+      "checked_at": "2026-10-20T00:00:00Z"
+    },
+    {
+      "id": "news",
+      "label": "News search",
+      "status": "not_checked",
+      "reason": "Not included in this saved run.",
+      "checked_at": null
+    },
+    {
+      "id": "court",
+      "label": "Court records",
+      "status": "not_checked",
+      "reason": "Coming next",
+      "checked_at": null
+    },
+    {
+      "id": "registry",
+      "label": "Company registry",
+      "status": "not_checked",
+      "reason": "Coming next",
+      "checked_at": null
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Haryana RERA's certificate names Godrej Nature Plus (Phase-I), developed by Godrej Highview LLP, in Sector 33, Sohna, Gurugram.",
+      "source_id": "rera_hr",
+      "source_url": "https://haryanarera.gov.in/view_project/view_certificate/Njkx",
+      "snippet": "Registration certificate for Godrej Nature Plus (Phase-I), developed by Godrej Highview LLP, Sector 33, Sohna, Gurugram."
+    }
+  ],
+  "summary": "This saved source snapshot confirms a Haryana RERA project registration. The fixture does not contain possession or complaint histories, so it does not support a risk verdict.",
+  "summary_claim_ids": [
+    "c1"
+  ]
+}
